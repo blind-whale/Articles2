@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Articles</string>
+
+    <string name="drawer_collection">我的收藏</string>
+    <string name="drawer_attention">我的关注</string>
+    <string name="drawer_add_attention">+关注</string>
+    <string name="drawer_about_us">关于我们</string>
+    <string name="drawer_setup">设置</string>
+    <string name="loading">加载中...</string>
+</resources>
